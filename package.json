@@ -1,0 +1,16 @@
+{
+  "name": "csumb-emergency-generator",
+  "description": "Generates a simple emergency.js file from everbridge",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "supertest": "^3.4.2"
+  }
+}
